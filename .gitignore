@@ -1,0 +1,10 @@
+# ignore node modules
+node_modules/
+
+# ignore dist folder
+dist/
+
+.DS_Store
+
+# package-lock.json
+package-lock.json
